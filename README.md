@@ -4,10 +4,6 @@ A React project. It's a job platform website that obtains data from a JSON file.
 
 <hr>
 
-> [!NOTE]
-> Not to be counted as a project <br>
-> Not to be demoed in interviews
-
 ## How It's Made:
 
 **HTML | CSS (TailwindCSS)**
