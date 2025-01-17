@@ -26,8 +26,6 @@ A React project. It's a job platform website that obtains data from a JSON file.
 
 **Dependencies**
 
-Quickstart MySQL Query:
-
 ```
 npm i react-router-dom
 ```
